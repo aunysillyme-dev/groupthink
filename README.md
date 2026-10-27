@@ -1,5 +1,7 @@
 # Groupthink
 
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/aunysillyme-dev/groupthink/badge)](https://scorecard.dev/viewer/?uri=github.com/aunysillyme-dev/groupthink)
+
 **Group decisions that never hold a vote.**
 
 Live: https://aunysillyme.github.io/groupthink/
